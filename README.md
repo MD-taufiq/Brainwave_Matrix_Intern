@@ -38,11 +38,14 @@ The dataset `Warehouse_and_Retail_Sales.csv` contains monthly retail and warehou
 
 ## 📸 Project Highlights
 
-| Report | Dashboard |
-|--------|-----------|
-| ![Word Report](./assets/report_preview.png) | ![Power BI Dashboard](./assets/dashboard_preview.png) |
+| 📄 [Download Report](./report/Taufiq_Sales_Analysis_Report.docx) | 📊 [Download Dashboard](./dashboard/PowerBI_Dashboard.pbix) |
+|------------------------------------------------------------------|-------------------------------------------------------------|
+| *(Add screenshot or preview image here)*                        | *(Add dashboard screenshot here)*                           |
 
----
+## 📥 Downloads
+
+- 📄 [Final Report – Word](./report/Taufiq_Sales_Analysis_Report.docx)
+- 📊 [Power BI Dashboard](./dashboard/PowerBI_Dashboard.pbix)
 
 ## 📑 Files Included
 
